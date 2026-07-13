@@ -1,4 +1,4 @@
-## Projects I'm Working On (Currently Private Repositories)  
+## Private Projects I'm Working On (Currently Private Repositories)  
 - A 2D snooker simulation utilizing p5.js and matter.js for  realistic physics and interactions, as well as a replay function and an undo mechanism. <a href="https://youtu.be/nd4hGbN8Aa4"> YouTube Video Walkthrough <a>
 - A creative image filtering application that transforms a live webcam feed into a grid of manipulated filter images. <a href="https://youtu.be/DSt57lzzeVc"> YouTube Video Walkthrough <a>
 - **weather-CLI-simulator** –  command line interface to simulate real-time weather analysis. <a href="https://youtu.be/QlCvGCvGlCE"> YouTube Video Walkthrough <a>
